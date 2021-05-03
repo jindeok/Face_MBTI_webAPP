@@ -168,7 +168,13 @@ body {
     color: #000000;
     /* text-decoration: underline; */
 }
-
+.youtube-link-2 {
+    font-size: 0.7rem;
+    line-height: 1.71;
+    text-align: center;
+    color: #000000;
+    /* text-decoration: underline; */
+}
 .youtube-link:hover {
     font-size: 1.3rem;
     line-height: 1.71;
