@@ -162,14 +162,14 @@ body {
 
 
 .author_name {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     line-height: 1.71;
     text-align: center;
     color: #000000;
     /* text-decoration: underline; */
 }
 .author_name-2 {
-    font-size: 0.7rem;
+    font-size: 1.0rem;
     line-height: 1.71;
     text-align: center;
     color: #AAAAAA;
@@ -196,7 +196,7 @@ body {
 }
 
 .footer {
-	font-size: 0.3rem;
+	font-size: 0.9rem;
     background-color: initial;
     color: initial;
 }
