@@ -162,7 +162,7 @@ body {
 
 
 .youtube-link {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     line-height: 1.71;
     text-align: center;
     color: #000000;
@@ -172,18 +172,12 @@ body {
     font-size: 0.7rem;
     line-height: 1.71;
     text-align: center;
-    color: #000000;
-    /* text-decoration: underline; */
-}
-.youtube-link:hover {
-    font-size: 1.3rem;
-    line-height: 1.71;
-    text-align: center;
-    color: #000000;
+    color: #AAAAAA;
     /* text-decoration: underline; */
 }
 
-.youtube-icon {
+
+.AI-icon {
     width: 20px;
     height: 20.262px;
 }
