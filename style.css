@@ -175,6 +175,13 @@ body {
     color: #AAAAAA;
     /* text-decoration: underline; */
 }
+.author_name-3 {
+    font-size: 1.2rem;
+    line-height: 1.71;
+    text-align: center;
+    color: #DD00AA;
+    text-decoration: underline;
+}
 
 
 .AI-icon {
