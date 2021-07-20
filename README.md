@@ -17,4 +17,4 @@ Test it out just for fun ! :)
 Test link :
 https://mbti-face-ai.netlify.app/
 
-*** No image / data is stored anyware ***
+*** No image / data is stored anywhere ***
