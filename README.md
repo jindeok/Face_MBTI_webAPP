@@ -7,7 +7,7 @@
 
 you can upload any images to the Wep application.~!
 
-The CNN(Convolutional Neural Network)-based AI model will predict your MBTI personality based on yout face features. 
+The CNN(Convolutional Neural Network)-based AI model will predict your MBTI personality based on your face features. 
 
 
 
