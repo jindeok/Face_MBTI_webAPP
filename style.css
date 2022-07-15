@@ -176,11 +176,12 @@ body {
     /* text-decoration: underline; */
 }
 .author_name-3 {
-    font-size: 1.2rem;
-    line-height: 1.71;
+    font-size: 1.5rem;
+    line-height: 1.91;
     text-align: center;
     color: #ffa300;
     text-decoration: underline;
+    text-decoration-thickness: 3px;
 }
 
 
